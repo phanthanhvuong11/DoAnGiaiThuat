@@ -1,0 +1,9 @@
+﻿  DoAn_QL_Thu_Vien.cpp
+d:\doangiaithuat\thanhvuong2\doan\doan_ql_thu_vien.cpp(41): warning C4566: character represented by universal-character-name '\u1EDF' cannot be represented in the current code page (1252)
+d:\doangiaithuat\thanhvuong2\doan\doan_ql_thu_vien.cpp(41): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+d:\doangiaithuat\thanhvuong2\doan\doan_ql_thu_vien.cpp(53): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+d:\doangiaithuat\thanhvuong2\doan\doan_ql_thu_vien.cpp(53): warning C4566: character represented by universal-character-name '\u1EE7' cannot be represented in the current code page (1252)
+d:\doangiaithuat\thanhvuong2\doan\doan_ql_thu_vien.cpp(53): warning C4566: character represented by universal-character-name '\u1ED9' cannot be represented in the current code page (1252)
+d:\doangiaithuat\thanhvuong2\doan\doan_ql_thu_vien.cpp(53): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1252)
+d:\doangiaithuat\thanhvuong2\doan\doan_ql_thu_vien.cpp(341): warning C4101: 'DS': unreferenced local variable
+  DoAn.vcxproj -> D:\DoAnGiaiThuat\ThanhVuong2\Debug\DoAn.exe
